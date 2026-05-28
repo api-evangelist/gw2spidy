@@ -1,0 +1,32 @@
+aid: gw2spidy
+name: GW2Spidy
+description: "GW2Spidy API, Items data on the Guild Wars 2 Trade Market"
+url: https://github.com/rubensayshi/gw2spidy/wiki
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: GW2Spidy
+    description: "GW2Spidy API, Items data on the Guild Wars 2 Trade Market"
+    humanURL: https://github.com/rubensayshi/gw2spidy/wiki
+    baseURL: https://github.com/rubensayshi/gw2spidy/wiki
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://github.com/rubensayshi/gw2spidy/wiki
+common:
+  - type: Website
+    url: https://github.com/rubensayshi/gw2spidy/wiki
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
