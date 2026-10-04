@@ -33,13 +33,13 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Video Games
 apis:
   - name: GW2Spidy
     description: "GW2Spidy API, Items data on the Guild Wars 2 Trade Market"
     humanURL: https://github.com/rubensayshi/gw2spidy/wiki
-    baseURL: https://github.com/rubensayshi/gw2spidy/wiki
     tags:
       - Games And Comics
     properties:
@@ -53,3 +53,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
