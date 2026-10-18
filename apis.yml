@@ -40,7 +40,8 @@ apis:
   - name: GW2Spidy
     description: "GW2Spidy API, Items data on the Guild Wars 2 Trade Market"
     humanURL: https://github.com/rubensayshi/gw2spidy/wiki
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
